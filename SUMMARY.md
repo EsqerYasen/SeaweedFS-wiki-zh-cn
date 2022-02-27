@@ -2,8 +2,8 @@
 
 * [介绍](introduction/README.md)
 
-  * [组件]()
-  * 开始
+  * [组件](introduction/Components.md)
+  * [开始]()
   * 基准
   * 常见问题
 * API
